@@ -14,9 +14,9 @@ public class Latihan1 {
         toyota.warna = "Putih";
         toyota.tahun_keluaran = 2020;
         
-        System.out.println(toyota.nama_mobil);
-        System.out.println(toyota.warna);
-        System.out.println(toyota.tahun_keluaran);  
+        System.out.println("Nama Mobil :"  + toyota.nama_mobil);
+        System.out.println("Warna Mobil :" + toyota.warna);
+        System.out.println("Tahun Keluaran" + toyota.tahun_keluaran);  
     }
     
 }
